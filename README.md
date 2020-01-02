@@ -19,3 +19,32 @@ This Specialization covers the fundamentals of web development with Ruby on Rail
 - [x] Unit Testing with RSpec
 - [x] Assignments
 - [x] ProgrammingAssignment
+
+
+### [Week3](./Introduction/week3)
+- [x] Core concepts
+- [x] Diving Deeper Into Rails
+- [x] Building a ruby on rails application
+- [x] Deploying to Heroku and Verication
+
+
+## Rails with Active Record and Action Pack
+
+Welcome to Rails with Active Record and Action Pack! I'm excited to have you in the class and look forward to helping you learn more about how to build web applications with Ruby on Rails.
+
+To begin, I recommend taking a few minutes to explore the course site. A good place to start is the navigation bar on the left. Click Course Content to see what material we’ll cover each week, as well preview the assignments you’ll need to complete to pass the course. Click Discussions to see forums where you can discuss the course material with fellow students taking the class.
+
+This course should take about four weeks to complete. You can check out the recommended course schedule to see a quick overview of the lessons and assignments you’ll complete each week.
+
+Good luck as you get started. I look forward to seeing you in class!
+
+
+### [week1](./Active_Record_and_Action_Pack/week1)
+- [ ] Beginning Databases in Rails
+- [ ] Metaprogramming in Ruby
+- [ ] Introduction to Active Record
+
+
+
+
+
