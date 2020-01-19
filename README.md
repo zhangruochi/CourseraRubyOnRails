@@ -18,7 +18,7 @@ This Specialization covers the fundamentals of web development with Ruby on Rail
 - [x] Object Oriented Programming in Ruby
 - [x] Unit Testing with RSpec
 - [x] Assignments
-- [x] ProgrammingAssignment
+- [x] Programming Assignment
 
 
 ### [Week3](./Introduction/week3)
@@ -26,6 +26,7 @@ This Specialization covers the fundamentals of web development with Ruby on Rail
 - [x] Diving Deeper Into Rails
 - [x] Building a ruby on rails application
 - [x] Deploying to Heroku and Verication
+- [x] Programming Assignment
 
 
 ## Rails with Active Record and Action Pack
@@ -40,9 +41,16 @@ Good luck as you get started. I look forward to seeing you in class!
 
 
 ### [week1](./Active_Record_and_Action_Pack/week1)
-- [ ] Beginning Databases in Rails
-- [ ] Metaprogramming in Ruby
-- [ ] Introduction to Active Record
+- [x] Beginning Databases in Rails
+- [x] Metaprogramming in Ruby
+- [x] Introduction to Active Record
+- [x] Programming Assignment
+
+### [week2](./Active_Record_and_Action_Pack/week2)
+- [x] Advanced Querying
+- [x] Expressing Database Relationships
+- [x] More Active Record
+- [x] Programming Assignment
 
 
 
