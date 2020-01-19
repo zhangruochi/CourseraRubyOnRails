@@ -52,6 +52,11 @@ Good luck as you get started. I look forward to seeing you in class!
 - [x] More Active Record
 - [x] Programming Assignment
 
+## [week3](./Active_Record_and_Action_Pack/week3)
+- [x] Action Pack
+- [x] Restful Action
+- [x] Action View
+
 
 
 
