@@ -56,7 +56,13 @@ Good luck as you get started. I look forward to seeing you in class!
 - [x] Action Pack
 - [x] Restful Action
 - [x] Action View
+- [x] Programming Assignment
 
+## [week4](./Active_Record_and_Action_Pack/week4)
+- [x] Nested Resources
+- [x] Security
+- [x] Enhancements and deployment
+--[x] Programming Assignment
 
 
 
